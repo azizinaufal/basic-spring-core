@@ -1,4 +1,4 @@
-package naufalazizi.spring.core;
+package naufalazizi.spring.core.configuration;
 
 import naufalazizi.spring.core.data.Bar;
 import org.springframework.context.annotation.Bean;

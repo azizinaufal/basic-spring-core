@@ -1,0 +1,7 @@
+package naufalazizi.spring.core.repository;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class CategoryRespository {
+}
